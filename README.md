@@ -1,6 +1,7 @@
 # Articles web scrapping
 ## Summary
 1. extract list of available articles in https://jamesclear.com/articles website
+2. navigate each article's url and eactract the article then store it
 ## Skills
 this is a personal project to practice working on python projects. In this project the following skills where worked on:
 1. `dotenv`: use package to store repetitve and private data
@@ -13,4 +14,4 @@ this is a personal project to practice working on python projects. In this proje
 3. run `create_articles_list.ipynb` to check work done
   
 ## In progress
-after getting list of articles need to navigate article and store articles' data
+after getting the articles, start preprocessing the data for the ml model 
